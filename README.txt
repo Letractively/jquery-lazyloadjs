@@ -11,4 +11,4 @@ Project home:
 Version:  0.9.0
 
 Online documentation & live examples
-   http://cyrilmazur.com/jquery-lazyloadjs
+   http://cyrilmazur.com/2011/09/lazy-loading-for-javascript.html
